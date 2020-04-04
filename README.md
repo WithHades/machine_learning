@@ -4,6 +4,7 @@
 感觉还是得用jupyter好一些，接下来学习深度学习部分，下一阶段改用jupyter。
 
 **本次学习参考了众多笔记，表示感谢:**
+
 吴恩达机器学习视频：<https://www.coursera.org/learn/machine-learning/>
 
 吴恩达机器学习与深度学习作业：<https://blog.csdn.net/Cowry5/article/details/83302646>
